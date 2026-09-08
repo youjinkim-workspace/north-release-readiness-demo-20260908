@@ -1,0 +1,31 @@
+{
+  "release": "v1.2.0",
+  "data_classification": "synthetic-demo",
+  "notice": "Checklist is a planning document, not live GitHub issue state. pr_state is a seed snapshot; query GitHub for current PR status.",
+  "items": [
+    {
+      "title": "Export timeout fix",
+      "issue_url": "https://github.com/youjinkim-workspace/north-release-readiness-demo-20260908/issues/1",
+      "pr_url": "https://github.com/youjinkim-workspace/north-release-readiness-demo-20260908/pull/2",
+      "checklist": "done",
+      "blocker": false,
+      "pr_state": "open"
+    },
+    {
+      "title": "Access-control regression",
+      "issue_url": "https://github.com/youjinkim-workspace/north-release-readiness-demo-20260908/issues/3",
+      "pr_url": "https://github.com/youjinkim-workspace/north-release-readiness-demo-20260908/pull/4",
+      "checklist": "in_review",
+      "blocker": true,
+      "pr_state": "open"
+    },
+    {
+      "title": "Release notes update",
+      "issue_url": "https://github.com/youjinkim-workspace/north-release-readiness-demo-20260908/issues/5",
+      "pr_url": "https://github.com/youjinkim-workspace/north-release-readiness-demo-20260908/pull/6",
+      "checklist": "done",
+      "blocker": false,
+      "pr_state": "merged"
+    }
+  ]
+}
